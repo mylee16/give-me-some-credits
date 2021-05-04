@@ -117,5 +117,4 @@ On the other hand, `MonthlyIncome`, `NumberofDependent`, and `NumberofRealEstate
 ## References
 - [Kaggle Competition - Give Me Some Credit](https://www.kaggle.com/c/GiveMeSomeCredit/overview)
 - [Scikit-learn](https://scikit-learn.org/stable/)
-
-https://developers.google.com/machine-learning/crash-course/classification/roc-and-auc
+- [Tuning XG Boost](https://www.analyticsvidhya.com/blog/2016/02/complete-guide-parameter-tuning-gradient-boosting-gbm-python/)
