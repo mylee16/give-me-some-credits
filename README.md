@@ -1,11 +1,7 @@
-# foodpanda MLE Take Home Technical
+# Give Me Some Credit
 
 Author: Mengyong Lee | [LinkedIn](https://www.linkedin.com/in/mylee1/) | [Github](https://github.com/mylee16)
 
-<p align="center">
-  <img src="img/foodpanda_logo_press.png" width=50%/>
-  <br>                  
-</p>
 
 ## Table of contents
 1. [Introduction](#introduction)
